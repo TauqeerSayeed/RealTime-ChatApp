@@ -75,22 +75,6 @@ RealTime-ChatApp/
 
 Pull requests are welcome! Please open issues for any bugs or feature requests. Ensure all tests pass and code is properly linted before submitting.
 
-## License
 
-This project is licensed under the MIT License.
 
-***
 
-Feel free to edit the technologies and steps to match the actual implementation details as needed for your project.
-
-[1] https://github.com/TauqeerSayeed/RealTime-ChatApp
-[2] https://github.com/topics/real-time-chat-app
-[3] https://github.com/topics/realtime-chat-app
-[4] https://www.youtube.com/watch?v=ntKkVrQqBYY
-[5] https://github.com/yuvraj0028/node-realtime-chat-app
-[6] https://github.com/chaudhary19/Realtime-Chat-App
-[7] https://github.com/codewithmawais/realtime-chat-app/blob/master/README.md
-[8] https://github.com/batuhaniskr/real-time-chat-application/blob/master/README.md
-[9] https://github.com/shaikahmadnawaz/chat-app
-[10] https://github.com/Tajbir23/realtime-chat-app
-[11] https://github.com/Prakashsaw/Real-Time-Chat-App/blob/master/README.md
